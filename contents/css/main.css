@@ -98,7 +98,7 @@ header > p {
 }
  .image {
      box-shadow: 0 0 200px rgba(0,0,0,0.9) inset;
-     background: url("../assets/byebye.jpg") no-repeat center;
+     background: url("../assets/vapor.gif") no-repeat center;
      background-color: #00cfe2;
 }
  .vignette {
